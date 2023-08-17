@@ -1,4 +1,4 @@
-# kubernetes-installation-kubeadm# kubernetes cluster setup using containerd for production build with binary
+# kubernetes cluster setup using containerd for production build with binary
 
 Here is step by step approach to build kubernetes cluster using containerd as container runtime from binary.here i am using three ubuntu 22.04 machine having 2gb ram and 2 cpu . one is master node and two worker node. 
 
